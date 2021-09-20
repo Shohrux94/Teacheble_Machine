@@ -1,6 +1,5 @@
 # Teacheble_Machine
 Mask Detector
-https://teachablemachine.withgoogle.com/models/RrK-Z48jL/
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
